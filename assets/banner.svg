@@ -28,7 +28,7 @@
     <rect x="64" y="178" width="120" height="4" rx="2" fill="url(#accent)"/>
     <text x="64" y="222" fill="#CBD5E1" font-size="21">I own products end-to-end — from spec and API design</text>
     <text x="64" y="252" fill="#CBD5E1" font-size="21">to UI, CI/CD and production support.</text>
-    <text x="64" y="290" fill="#64748B" font-size="16">Delhi, India  ·  Clients in India, Canada &amp; UAE  ·  Open to senior roles</text>
+    <text x="64" y="290" fill="#64748B" font-size="16">Delhi, India  ·  Clients in India, Canada &amp; UAE</text>
   </g>
 
   <!-- Right: terminal card -->
