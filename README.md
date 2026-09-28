@@ -23,7 +23,7 @@ Most of my projects I own **end-to-end** — requirements, database and API desi
 
 ## 🧭 How I work
 
-| | |
+| Principle | In practice |
 |---|---|
 | 📝 **Spec before code** | I write PRDs, technical specs, role-based feature specs and phased roadmaps before building — so scope, data model and edge cases are agreed up front. |
 | 🔌 **API-first backends** | Clean REST APIs with a consistent auth context and error format, documented and kept current in Postman collections for frontend and QA teams. |
