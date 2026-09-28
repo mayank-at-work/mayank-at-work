@@ -56,19 +56,20 @@ Most of my projects I own **end-to-end** — requirements, database and API desi
 
 ---
 
-## 🚀 Selected work
+## ⚡ Engineering highlights
 
-> Most of my work is client software under NDA, so the code is private. Each case study below explains the problem, architecture and my role — happy to walk through any of them in an interview.
+My client work is under NDA, so here's the kind of problems I solve rather than the code itself.
 
-| Project | What it is | Stack | |
-|---|---|---|---|
-| 💰 **FinTech Mutual-Fund Platform** | REST API for a mutual-fund investment platform with partner (distributor) and customer modes — SIPs, payments, KYC, portfolios | PHP · MySQL · REST · Postman | [Case study →](./case-studies/fintech-mutual-fund-platform.md) |
-| 🏫 **Scholaria — School ERP SaaS** | Multi-role school ERP: fees, exams, attendance, library, live-GPS transport and wearable-band integration | PHP · MySQL · GPS · IoT | [Case study →](./case-studies/scholaria-school-erp.md) |
-| 🏢 **Agency Operations ERP** | Internal ERP for a software agency: projects, tasks, attendance, finance, one-click deploys, Discord meetings | PHP 8 · MySQL · GitHub Actions · Discord API · Electron · PWA | [Case study →](./case-studies/agency-operations-erp.md) |
-| 🎯 **B2B Lead Generation Engine** | Finds and scores local businesses that need a website, processed through a job queue | Node.js · Express · BullMQ · Redis · MySQL · Laravel | [Case study →](./case-studies/b2b-lead-generation-engine.md) |
-| 🔎 **Technical SEO & E-commerce Engineering** | Structured data, dynamic sitemaps, redirects and product feeds for client sites in the UAE and Canada | PHP · Schema.org · .htaccess · Google Merchant | [Case study →](./case-studies/technical-seo-ecommerce.md) |
+- **Payments & KYC APIs** — Designed REST APIs for a mutual-fund platform: SIPs, payment gateways, KYC and portfolios, with separate partner (distributor) and customer auth modes.
+- **Queue-based processing** — Node.js + BullMQ + Redis workers that scrape, enrich and score local businesses at scale without blocking the API.
+- **Real-time two-way calendar sync** — Each admin's own Google Calendar kept in sync with a Laravel panel via push-notification webhooks, with no polling.
+- **One-click deploys without a DevOps team** — GitHub Actions pipelines that ship to production, including shared hosting, so small clients get proper CI/CD.
+- **Automation over data entry** — Scraper + n8n pipelines that ingest, clean and publish content automatically instead of by hand.
+- **IoT inside business software** — Wearable-band and live-GPS transport tracking integrated into a multi-role school ERP.
+- **Technical SEO at the code level** — Schema.org structured data, dynamic sitemaps, redirect maps and Google Merchant feeds for e-commerce sites in the UAE and Canada.
+- **No-code → custom code** — Replaced a client's no-code CRM with a custom build, including a full data migration.
 
-**Also shipped:** a custom CRM that replaced a client's no-code platform · CMS admin panels · corporate and brand websites for clients in India, Canada and the UAE.
+**Domains I've shipped in:** FinTech · EdTech / School ERP · E-commerce & SEO · Business automation · IoT
 
 ---
 
