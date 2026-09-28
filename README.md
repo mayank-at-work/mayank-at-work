@@ -16,8 +16,6 @@ I'm a **Full-Stack Developer at SK Info Techies**, a Delhi-based digital agency,
 
 Most of my projects I own **end-to-end** — requirements, database and API design, frontend, deployment and post-launch support. I've shipped across **FinTech, EdTech / School ERP, e-commerce with technical SEO, business automation and IoT**, and I build my own SaaS products alongside client work.
 
-**Looking for:** a senior full-stack or backend role where I can own systems, not just tickets.
-
 ---
 
 ## 🧭 How I work
