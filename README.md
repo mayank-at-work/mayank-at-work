@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mayanktiwari-dev"><img src="https://img.shields.io/badge/LinkedIn-mayanktiwari--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mtiwari.connect@gmail.com"><img src="https://img.shields.io/badge/Email-mtiwari.connect@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open_to-Senior_Full--Stack_%2F_Backend_roles-22C55E?style=for-the-badge" alt="Open to senior roles" />
   <img src="https://img.shields.io/badge/Delhi_NCR-On--site_%C2%B7_Hybrid_%C2%B7_Remote-6366F1?style=for-the-badge" alt="Delhi NCR · On-site · Hybrid · Remote" />
 </p>
 
