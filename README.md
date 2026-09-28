@@ -73,14 +73,6 @@ My client work is under NDA, so here's the kind of problems I solve rather than 
 
 ---
 
-## 🔭 Currently
-
-- 🏗️ Building **Launchpad** — a learning-to-internship platform for Indian college students (React · Zustand · Node.js · Supabase)
-- 📡 Prototyping **Smart Tag** — a BLE + GPS item finder on ESP32 with dual-range finding
-- 🐍 Levelling up in **Python, DSA and AI engineering**
-
----
-
 <p align="center">
   <b>Let's talk</b> — <a href="mailto:mtiwari.connect@gmail.com">mtiwari.connect@gmail.com</a> · <a href="https://www.linkedin.com/in/mayanktiwari-dev">LinkedIn</a>
 </p>
