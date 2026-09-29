@@ -14,8 +14,6 @@
 
 I'm a **Full-Stack Developer at SK Info Techies**, a Delhi-based digital agency, where I build and run production software for clients in **India, Canada and the UAE**.
 
-Most of my projects I own **end-to-end** — requirements, database and API design, frontend, deployment and post-launch support. I've shipped across **FinTech, EdTech / School ERP, e-commerce with technical SEO, business automation and IoT**, and I build my own SaaS products alongside client work.
-
 ---
 
 ## 🧭 How I work
@@ -62,11 +60,10 @@ My client work is under NDA, so here's the kind of problems I solve rather than 
 - **Real-time two-way calendar sync** — Each admin's own Google Calendar kept in sync with a Laravel panel via push-notification webhooks, with no polling.
 - **One-click deploys without a DevOps team** — GitHub Actions pipelines that ship to production, including shared hosting, so small clients get proper CI/CD.
 - **Automation over data entry** — Scraper + n8n pipelines that ingest, clean and publish content automatically instead of by hand.
-- **IoT inside business software** — Wearable-band and live-GPS transport tracking integrated into a multi-role school ERP.
 - **Technical SEO at the code level** — Schema.org structured data, dynamic sitemaps, redirect maps and Google Merchant feeds for e-commerce sites in the UAE and Canada.
 - **No-code → custom code** — Replaced a client's no-code CRM with a custom build, including a full data migration.
 
-**Domains I've shipped in:** FinTech · EdTech / School ERP · E-commerce & SEO · Business automation · IoT
+**Domains I've shipped in:** FinTech · EdTech / School ERP · E-commerce & SEO · Business automation
 
 ---
 
